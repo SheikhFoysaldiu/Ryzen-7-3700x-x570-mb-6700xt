@@ -47,7 +47,7 @@ This is my personal Hackintosh configuration using OpenCore `0.8.8` on an AMD Ry
 
 - SMBIOS should be generated individually (do **not** reuse).
 - BIOS is tuned for stability – feel free to ask for my settings.
-- macOS version used: *(you can add this here if you want)*
+- macOS version used: *14.7.5 (Sonoma)*
 
 ---
 
